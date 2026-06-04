@@ -1,4 +1,4 @@
-# 📊 Data Science Mini Projects Portfolio
+# 📊 Python Projects
 
 This repository contains a collection of beginner-friendly Python and Data Science projects.  
 The projects focus on **data analysis, machine learning, and numerical computing**, helping build a strong foundation in Data Science.
